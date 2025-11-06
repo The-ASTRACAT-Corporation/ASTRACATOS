@@ -1,0 +1,34 @@
+{
+  "hash": "06636994",
+  "configHash": "afd69ef5",
+  "lockfileHash": "19426673",
+  "browserHash": "5b3873dc",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c8110d1f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "08fbb6d7",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "ceafbd1f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3GO6BHLD": {
+      "file": "chunk-3GO6BHLD.js"
+    },
+    "chunk-HKJ2B2AA": {
+      "file": "chunk-HKJ2B2AA.js"
+    }
+  }
+}
