@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "UI Test Project",
+      "description": "This is a test project for the UI.",
+      "status": "active",
+      "createdAt": "2025-11-06T08:30:22.993Z",
+      "updatedAt": "2025-11-06T08:30:22.993Z",
+      "settings": {}
+    }
+  ]
+}
